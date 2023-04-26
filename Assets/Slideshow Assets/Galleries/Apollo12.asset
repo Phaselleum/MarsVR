@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd41b894398ad24dbfb47c3608bf1d5, type: 3}
+  m_Name: Apollo12
+  m_EditorClassIdentifier: 
+  slideshowName: Apollo 12 Panorama
+  images:
+  - {fileID: 2800000, guid: f18fe5b56cb325f47a49985558f3425c, type: 3}
+  categoryNames:
+  - Panorama
+  categoryImageIds:
+  - 0

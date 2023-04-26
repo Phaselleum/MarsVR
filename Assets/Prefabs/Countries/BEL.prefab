@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5736163951810820694
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5736163951810820693}
+  - component: {fileID: 5736163951810820715}
+  - component: {fileID: 5736163951810820692}
+  m_Layer: 0
+  m_Name: BEL
+  m_TagString: Country
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5736163951810820693
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5736163951810820694}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.473461, y: -38.822166, z: 31.571053}
+  m_LocalScale: {x: 0.16666667, y: 0.16666667, z: 0.16666667}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5736163951810820715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5736163951810820694}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d39812e5cc73106449090ab1089b86ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coords: []
+  ADM0: BEL
+  countryName: Belgium
+  lineColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  labelPos: {x: -2.459257, y: 39.58451, z: 32.14378}
+  interactable: 0
+  hotelsLoaded: 0
+  hotels: []
+  airports:
+  - {fileID: 11400000, guid: 21937304b1ea15c46bb82c5d5b3205d1, type: 2}
+  - {fileID: 11400000, guid: 764bb867256c05e45892ebea150f62ad, type: 2}
+  - {fileID: 11400000, guid: 7dd121922f00dc949aec8fe89b553d5e, type: 2}
+--- !u!114 &5736163951810820692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5736163951810820694}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32248b83c1df19f4a8ef144e9268390f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poslat:
+  - 50.795412414
+  - 50.76779136
+  - 50.764639098
+  - 50.767145405
+  - 50.778979308
+  - 50.814403503
+  - 50.808409036
+  - 50.821638203
+  - 50.821646923
+  - 50.836934427
+  - 50.839621602
+  - 50.856416442
+  - 50.856428323
+  - 50.867785257
+  - 50.867787251
+  - 50.891453063
+  - 50.903131937
+  - 50.89858441
+  - 50.914810811
+  - 50.906335876
+  - 50.889293392
+  - 50.889282653
+  - 50.879670837
+  - 50.869497118
+  - 50.86949058
+  - 50.853213727
+  - 50.853212503
+  - 50.82153485
+  - 50.819777851
+  - 50.810999758
+  - 50.810992858
+  - 50.795422745
+  - 50.795412414
+  poslong:
+  - 4.4797676170001
+  - 4.3984289130001
+  - 4.3772415760001
+  - 4.3552790920001
+  - 4.3276322010001
+  - 4.3012255440001
+  - 4.2830354390001
+  - 4.2455700270001
+  - 4.2455768030001
+  - 4.2574556060001
+  - 4.2828287340001
+  - 4.2891849350001
+  - 4.289174242
+  - 4.278953001
+  - 4.2789545980001
+  - 4.2979182530001
+  - 4.3346085190001
+  - 4.3773449290001
+  - 4.403286498
+  - 4.4204947490001
+  - 4.4361944920001
+  - 4.4362043850001
+  - 4.4356876210001
+  - 4.4200397170001
+  - 4.4200296610001
+  - 4.4602309030001
+  - 4.4602339260001
+  - 4.47609859
+  - 4.4549112540001
+  - 4.4464946110001
+  - 4.4464879950001
+  - 4.4797455500001
+  - 4.4797676170001

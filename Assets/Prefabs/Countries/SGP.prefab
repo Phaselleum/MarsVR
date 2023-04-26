@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &147553881674745906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 147553881674745907}
+  - component: {fileID: 147553881674745908}
+  - component: {fileID: 147553881674745868}
+  m_Layer: 0
+  m_Name: SGP
+  m_TagString: Country
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &147553881674745907
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 147553881674745906}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 48.605774, y: -1.216244, z: -12.083426}
+  m_LocalScale: {x: 0.16666667, y: 0.16666667, z: 0.16666667}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &147553881674745908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 147553881674745906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d39812e5cc73106449090ab1089b86ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coords: []
+  ADM0: SGP
+  countryName: Singapore
+  lineColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  labelPos: {x: -49.5605, y: 1.202369, z: -12.18672}
+  interactable: 0
+  hotelsLoaded: 0
+  hotels:
+  - {fileID: 11400000, guid: 6557a8dbca7926041bed0f98c748d851, type: 2}
+  airports:
+  - {fileID: 11400000, guid: f2e391934acbd6046a2d236efceb5e5b, type: 2}
+--- !u!114 &147553881674745868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 147553881674745906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32248b83c1df19f4a8ef144e9268390f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poslat:
+  - 1.3910993510001
+  - 1.3854434270001
+  - 1.380316473
+  - 1.3741722680001
+  - 1.354925848
+  - 1.3344587260001
+  - 1.3181013040001
+  - 1.3114688170001
+  - 1.3087425800001
+  - 1.3012556010001
+  - 1.2772891300001
+  - 1.271918036
+  - 1.268500067
+  - 1.266262111
+  - 1.2643089860001
+  - 1.2647972680001
+  - 1.2678897160001
+  - 1.2738711610001
+  - 1.2875837260001
+  - 1.29710521
+  - 1.3029238950001
+  - 1.3052432310001
+  - 1.3041039080001
+  - 1.3084170590001
+  - 1.3222516950001
+  - 1.338039455
+  - 1.380316473
+  - 1.3992373720001
+  - 1.409898179
+  - 1.4213320980001
+  - 1.4293887390001
+  - 1.4309756530001
+  - 1.4281273460001
+  - 1.4309756530001
+  - 1.444281317
+  - 1.448635158
+  - 1.4470889340001
+  - 1.4387067730001
+  - 1.4011091170001
+  - 1.3910993510001
+  poslong:
+  - 103.960785352
+  - 103.985687696
+  - 103.999522332
+  - 104.003428582
+  - 103.991872592
+  - 103.974864129
+  - 103.954356316
+  - 103.931895379
+  - 103.907237175
+  - 103.887705925
+  - 103.852712436
+  - 103.846934441
+  - 103.844086134
+  - 103.8388778
+  - 103.826019727
+  - 103.801605665
+  - 103.789561394
+  - 103.784434441
+  - 103.775889519
+  - 103.755137566
+  - 103.730153842
+  - 103.708750847
+  - 103.665293816
+  - 103.647634311
+  - 103.640391472
+  - 103.644704623
+  - 103.67457116
+  - 103.678884311
+  - 103.683848504
+  - 103.695078972
+  - 103.708343946
+  - 103.717946811
+  - 103.739756707
+  - 103.762217644
+  - 103.790049675
+  - 103.804942254
+  - 103.831553582
+  - 103.857188347
+  - 103.93246504
+  - 103.960785352

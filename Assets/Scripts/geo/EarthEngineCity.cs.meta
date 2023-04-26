@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ca5e43e5d05802488ad43c1984602d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - material: {instanceID: 0}
+  - font: {instanceID: 0}
+  - labelPrefab: {fileID: 5681632221948818878, guid: 2e0036791823ab941a5855adaa6dc9b9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

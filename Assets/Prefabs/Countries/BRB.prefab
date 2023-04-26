@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7571000389079320067
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7571000389079320064}
+  - component: {fileID: 7571000389079321086}
+  - component: {fileID: 7571000389079320065}
+  m_Layer: 0
+  m_Name: BRB
+  m_TagString: Country
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7571000389079320064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7571000389079320067}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -42.00229, y: -11.406626, z: 24.813433}
+  m_LocalScale: {x: 0.16666667, y: 0.16666667, z: 0.16666667}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7571000389079321086
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7571000389079320067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d39812e5cc73106449090ab1089b86ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coords: []
+  ADM0: BRB
+  countryName: Barbados
+  lineColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  labelPos: {x: 42.84976, y: 11.63415, z: 25.19422}
+  interactable: 0
+  hotelsLoaded: 0
+  hotels:
+  - {fileID: 11400000, guid: 26c9f2597fa10034dab131589fe5cd9a, type: 2}
+  airports:
+  - {fileID: 11400000, guid: 1943132fbf5312d4ab203a64a46b7c93, type: 2}
+--- !u!114 &7571000389079320065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7571000389079320067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32248b83c1df19f4a8ef144e9268390f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poslat:
+  - 13.16038646
+  - 13.125921942
+  - 13.100043036
+  - 13.086493231
+  - 13.078558661
+  - 13.057318427
+  - 13.056382554
+  - 13.056463934
+  - 13.055405992
+  - 13.051174221
+  - 13.067694403
+  - 13.07802969
+  - 13.083197333
+  - 13.084133205
+  - 13.084662177
+  - 13.09398021
+  - 13.115912177
+  - 13.16038646
+  - 13.295111395
+  - 13.310614325
+  - 13.323716539
+  - 13.337958075
+  - 13.344549872
+  - 13.334784247
+  - 13.314520575
+  - 13.304388739
+  - 13.289658921
+  - 13.249172268
+  - 13.231390692
+  - 13.217515367
+  - 13.197943427
+  - 13.189398505
+  - 13.183172919
+  - 13.174872137
+  - 13.16038646
+  poslong:
+  - -59.42690996
+  - -59.430043098
+  - -59.455718554
+  - -59.475778775
+  - -59.487538215
+  - -59.50885983
+  - -59.51671302
+  - -59.523101366
+  - -59.529286262
+  - -59.5361222
+  - -59.545969205
+  - -59.564442512
+  - -59.58690345
+  - -59.600249804
+  - -59.608143684
+  - -59.621571418
+  - -59.633127408
+  - -59.646066861
+  - -59.654204882
+  - -59.652211067
+  - -59.645130989
+  - -59.630930142
+  - -59.612863736
+  - -59.594471809
+  - -59.580718554
+  - -59.575917121
+  - -59.568959114
+  - -59.549794075
+  - -59.536610481
+  - -59.518055793
+  - -59.491810676
+  - -59.476673957
+  - -59.457102017
+  - -59.43862871
+  - -59.42690996
